@@ -1,0 +1,96 @@
+body{
+    margin:0vh;
+    height: 100vh;
+    font-size: xx-large;
+}
+.header{
+    width:100%;
+    height: 50vh;
+}
+.one{
+    float:left;
+    width:35%;
+    height:50vh;
+    background-color:red;
+    padding-top: 25vh;
+    text-align: center;
+}
+.two{
+    float:left;
+    width:50%;
+    height:25vh;
+    background-color:yellow;
+    padding-top: 12vh;
+    text-align: center;
+
+}
+.four{
+    float:left;
+    width:50%;
+    height:25vh;
+    background-color:green;
+    padding-top: 12vh;
+    text-align: center;
+}
+.three{
+    float:right;
+    width:15%;
+    height:50vh;
+    background-color:rgb(226, 136, 151);
+    padding-top: 25vh;
+    text-align: center;
+    position:relative;
+    top:-38vh;
+}
+.footer{
+    width:100%;
+    height:100vh;
+
+}
+.five{
+    float:left;
+    width:50%;
+    height:25vh;
+    text-align: center;
+    padding-top: 12vh;
+    background-color:orangered;
+    position: relative;
+    left:-40%;
+}
+.six{
+    float:left;
+    width:20%;
+    height:25vh;
+    background-color:skyblue;
+    text-align: center;
+    padding-top: 12vh;
+    position:relative;
+    top:-37vh;
+    left:40%;
+
+}
+
+.seven{
+    float:right;
+    width:40%;
+    height:62vh;
+    text-align: center;
+    padding-top: 12vh;
+    background-color:rgb(95, 30, 148);
+    position:relative;
+    top:-74vh;
+
+
+}
+.eight{
+    float:left;
+    width:60%;
+    height:25vh;
+    text-align: center;
+    padding-top: 12vh;
+    background-color:peru;
+    position:relative;
+    left:-20%;
+
+
+}
